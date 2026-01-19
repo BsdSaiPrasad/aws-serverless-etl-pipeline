@@ -38,15 +38,19 @@ The pipeline eliminates manual processing and provides a scalable, cost-efficien
 ## 📂 Repository Structure
 
 aws-serverless-etl-pipeline
+
 │
 ├── lambda/
 │   └── lambda_function.py
+
 │
 ├── sample_data/
 │   └── orders_etl.json
+
 │
 ├── images/
 │   └── architecture.png
+
 │
 └── README.md
 
