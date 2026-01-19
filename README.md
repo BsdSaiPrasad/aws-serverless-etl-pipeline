@@ -41,14 +41,17 @@ aws-serverless-etl-pipeline
 
 │
 ├── lambda/
+
 │   └── lambda_function.py
 
 │
 ├── sample_data/
+
 │   └── orders_etl.json
 
 │
 ├── images/
+
 │   └── architecture.png
 
 │
